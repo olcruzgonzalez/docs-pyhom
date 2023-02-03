@@ -1,20 +1,24 @@
-.. Lumache documentation master file, created by
-   sphinx-quickstart on Wed Feb  1 10:53:35 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. PyHom documentation master file, under creation by olcruzgonzalez since Wed Feb  1 10:53:35 2023.
 
-Welcome to Lumache's documentation!
+Welcome to PyHom's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers that
-creates recipes mixing random ingredients.  It pulls data from the `Open Food
-Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
-*intuitive* API. Check out the :doc:`usage` section for further information, including how to
+**PyHom** is an home-made Python library for homogenization.  
+It pulls data from our repository in GitHib `pyhom <https://github.com/olcruzgonzalez/pyhom>`_ . Check out the :doc:`usage` section for further information, including how to
 :ref:`install <installation>` the project.
+
+
+
 
 .. note::
 
-   This project is under active development.
+   THIS PROJECT IS UNDER ACTIVE DEVELOPMENT.
+
+   Please, refer to 
+
+   "O.L. Cruz-González, R. Cornaggia, S. Dartois, R. Brenner. Calibration of the interaction direct
+   derivative (IDD) and Ponte-Castañeda and Willis (PCW) models to estimate the effective properties
+   of 2D composites. In progress."
 
 Contents
 --------
